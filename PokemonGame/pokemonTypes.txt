@@ -1,0 +1,27 @@
+Grass
+Ground Water 
+Grass Bug Fire Poison Flying
+Fire
+Bug Grass
+Fire Water
+Water
+Ground 
+Water Grass 
+Bug
+Poison Grass
+Flying Fire
+Flying
+Bug Grass
+Electric
+Normal
+
+
+Poison
+Bug Grass
+Poison Ground 
+Electric
+Flying Water
+Grass Electric
+Ground
+Poison Fire Electric
+Bug Grass
